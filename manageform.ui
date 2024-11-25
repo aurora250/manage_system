@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>manageform</class>
+ <widget class="QMainWindow" name="manageform">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1442</width>
+    <height>819</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>管理系统</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QScrollArea" name="main_scrollarea">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1441</width>
+      <height>771</height>
+     </rect>
+    </property>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="scroll_area">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>1439</width>
+       <height>769</height>
+      </rect>
+     </property>
+     <widget class="QFrame" name="main_frame">
+      <property name="geometry">
+       <rect>
+        <x>290</x>
+        <y>10</y>
+        <width>1141</width>
+        <height>751</height>
+       </rect>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <widget class="QTabWidget" name="main_tab">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>1121</width>
+         <height>741</height>
+        </rect>
+       </property>
+       <property name="currentIndex">
+        <number>0</number>
+       </property>
+       <widget class="QWidget" name="employee_tab">
+        <attribute name="title">
+         <string>员工</string>
+        </attribute>
+        <widget class="QTableWidget" name="employee_ec">
+         <property name="geometry">
+          <rect>
+           <x>0</x>
+           <y>0</y>
+           <width>1121</width>
+           <height>701</height>
+          </rect>
+         </property>
+         <column>
+          <property name="text">
+           <string>姓名</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>职务</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>编号</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>性别</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>年龄</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>电话</string>
+          </property>
+         </column>
+        </widget>
+       </widget>
+       <widget class="QWidget" name="customer_tab">
+        <attribute name="title">
+         <string>顾客</string>
+        </attribute>
+        <widget class="QTableWidget" name="customer_ec">
+         <property name="geometry">
+          <rect>
+           <x>0</x>
+           <y>0</y>
+           <width>1121</width>
+           <height>701</height>
+          </rect>
+         </property>
+         <column>
+          <property name="text">
+           <string>姓名</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>卡号</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>性别</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>年龄</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>电话</string>
+          </property>
+         </column>
+        </widget>
+       </widget>
+       <widget class="QWidget" name="service_tab">
+        <attribute name="title">
+         <string>商品与服务</string>
+        </attribute>
+        <widget class="QTableWidget" name="service_ec">
+         <property name="geometry">
+          <rect>
+           <x>0</x>
+           <y>0</y>
+           <width>1111</width>
+           <height>851</height>
+          </rect>
+         </property>
+         <column>
+          <property name="text">
+           <string>名称</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>价格</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>消费次数</string>
+          </property>
+         </column>
+        </widget>
+       </widget>
+      </widget>
+     </widget>
+     <widget class="QFrame" name="side_frame">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>10</y>
+        <width>281</width>
+        <height>761</height>
+       </rect>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <widget class="QTabWidget" name="side_tab">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>20</y>
+         <width>261</width>
+         <height>731</height>
+        </rect>
+       </property>
+       <property name="currentIndex">
+        <number>0</number>
+       </property>
+       <widget class="QWidget" name="side_main_tab">
+        <attribute name="title">
+         <string>功能栏</string>
+        </attribute>
+        <widget class="QFrame" name="exit_frame">
+         <property name="geometry">
+          <rect>
+           <x>10</x>
+           <y>579</y>
+           <width>241</width>
+           <height>111</height>
+          </rect>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <widget class="QPushButton" name="exit_save_bt">
+          <property name="geometry">
+           <rect>
+            <x>10</x>
+            <y>10</y>
+            <width>221</width>
+            <height>41</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>保存并退出</string>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="exit_nsave_bt">
+          <property name="geometry">
+           <rect>
+            <x>10</x>
+            <y>60</y>
+            <width>221</width>
+            <height>41</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>直接退出</string>
+          </property>
+         </widget>
+        </widget>
+        <widget class="QLabel" name="icon_area">
+         <property name="geometry">
+          <rect>
+           <x>10</x>
+           <y>10</y>
+           <width>241</width>
+           <height>551</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </widget>
+       <widget class="QWidget" name="side_view_tab">
+        <attribute name="title">
+         <string>同步预览</string>
+        </attribute>
+        <widget class="QTabWidget" name="view_tab">
+         <property name="geometry">
+          <rect>
+           <x>0</x>
+           <y>0</y>
+           <width>251</width>
+           <height>691</height>
+          </rect>
+         </property>
+         <property name="currentIndex">
+          <number>0</number>
+         </property>
+         <widget class="QWidget" name="employee_view">
+          <attribute name="title">
+           <string>员工</string>
+          </attribute>
+          <widget class="QFrame" name="em_view_frame">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>241</width>
+             <height>651</height>
+            </rect>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Raised</enum>
+           </property>
+           <widget class="QLineEdit" name="em_name_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>50</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>20</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>姓名</string>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_2">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>100</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>职务</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="em_posi_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>130</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_3">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>180</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>编号</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="em_id_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>210</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_4">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>260</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>性别</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="em_gen_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>290</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_5">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>340</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>年龄</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="em_age_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>370</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_6">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>420</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>电话</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="em_pho_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>450</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QFrame" name="em_view_bt_frame">
+            <property name="geometry">
+             <rect>
+              <x>10</x>
+              <y>540</y>
+              <width>221</width>
+              <height>101</height>
+             </rect>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <widget class="QPushButton" name="em_add_bt">
+             <property name="geometry">
+              <rect>
+               <x>120</x>
+               <y>20</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>添加为员工</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="em_chg_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>60</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>修改员工</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="em_del_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>20</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>删除员工</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="em_clear_bt">
+             <property name="geometry">
+              <rect>
+               <x>120</x>
+               <y>60</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>清空</string>
+             </property>
+            </widget>
+           </widget>
+           <zorder>em_view_bt_frame</zorder>
+           <zorder>em_name_le</zorder>
+           <zorder>label</zorder>
+           <zorder>label_2</zorder>
+           <zorder>em_posi_le</zorder>
+           <zorder>label_3</zorder>
+           <zorder>em_id_le</zorder>
+           <zorder>label_4</zorder>
+           <zorder>em_gen_le</zorder>
+           <zorder>label_5</zorder>
+           <zorder>em_age_le</zorder>
+           <zorder>label_6</zorder>
+           <zorder>em_pho_le</zorder>
+          </widget>
+         </widget>
+         <widget class="QWidget" name="customer_view">
+          <attribute name="title">
+           <string>顾客</string>
+          </attribute>
+          <widget class="QFrame" name="cu_view_frame">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>241</width>
+             <height>661</height>
+            </rect>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Raised</enum>
+           </property>
+           <widget class="QLineEdit" name="cu_name_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>50</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_7">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>20</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>姓名</string>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_9">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>100</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>卡号</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="cu_card_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>130</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_10">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>180</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>性别</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="cu_gen_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>210</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_11">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>260</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>年龄</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="cu_age_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>290</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_12">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>340</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>电话</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="cu_pho_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>370</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QFrame" name="cu_view_bt_frame">
+            <property name="geometry">
+             <rect>
+              <x>10</x>
+              <y>540</y>
+              <width>221</width>
+              <height>111</height>
+             </rect>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <widget class="QPushButton" name="cu_add_bt">
+             <property name="geometry">
+              <rect>
+               <x>120</x>
+               <y>20</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>添加为顾客</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="cu_chg_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>60</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>修改顾客</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="cu_del_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>20</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>删除顾客</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="cu_clear_bt">
+             <property name="geometry">
+              <rect>
+               <x>120</x>
+               <y>60</y>
+               <width>92</width>
+               <height>28</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>清空</string>
+             </property>
+            </widget>
+           </widget>
+          </widget>
+         </widget>
+         <widget class="QWidget" name="service_view">
+          <attribute name="title">
+           <string>商品与服务</string>
+          </attribute>
+          <widget class="QFrame" name="se_view_frame">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>241</width>
+             <height>651</height>
+            </rect>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Raised</enum>
+           </property>
+           <widget class="QLineEdit" name="se_name_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>50</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_13">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>20</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>名称</string>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_14">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>100</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>价格</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="se_price_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>130</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QLabel" name="label_15">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>180</y>
+              <width>69</width>
+              <height>19</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>消费次数</string>
+            </property>
+           </widget>
+           <widget class="QLineEdit" name="se_times_le">
+            <property name="geometry">
+             <rect>
+              <x>30</x>
+              <y>210</y>
+              <width>171</width>
+              <height>31</height>
+             </rect>
+            </property>
+           </widget>
+           <widget class="QFrame" name="se_view_bt_frame">
+            <property name="geometry">
+             <rect>
+              <x>10</x>
+              <y>470</y>
+              <width>221</width>
+              <height>171</height>
+             </rect>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <widget class="QPushButton" name="se_add_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>50</y>
+               <width>131</width>
+               <height>31</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>添加为商品/服务</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="se_chg_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>90</y>
+               <width>101</width>
+               <height>31</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>修改商品/服务</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="se_del_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>10</y>
+               <width>101</width>
+               <height>31</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>删除商品/服务</string>
+             </property>
+            </widget>
+            <widget class="QPushButton" name="se_clear_bt">
+             <property name="geometry">
+              <rect>
+               <x>10</x>
+               <y>130</y>
+               <width>91</width>
+               <height>31</height>
+              </rect>
+             </property>
+             <property name="text">
+              <string>清空</string>
+             </property>
+            </widget>
+           </widget>
+          </widget>
+         </widget>
+        </widget>
+       </widget>
+      </widget>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1442</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

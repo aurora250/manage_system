@@ -1,0 +1,589 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/QXlsx_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx",
+	"CMAKE_EXECUTABLE" : "D:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/CMakeLists.txt",
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"D:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/cmake/modules/qxlsx-config.cmake.in",
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/cmake/modules/qxlsx-config-version.cmake.in",
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/cmake/modules/CPackConfig.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPack.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CPackComponent.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Templates/CPackConfig.cmake.in",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Templates/CPackConfig.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/QXlsx_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QXlsx_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxabstractooxmlfile.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractooxmlfile.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxabstractooxmlfile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractooxmlfile_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxabstractsheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractsheet.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxabstractsheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractsheet_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcell.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcell.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcell_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcell_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcellformula.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellformula.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcellformula_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellformula_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcelllocation.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcelllocation.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcellrange.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellrange.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcellreference.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellreference.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxchart.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchart.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxchart_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchart_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxchartsheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchartsheet.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxchartsheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchartsheet_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcolor_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcolor_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxconditionalformatting.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxconditionalformatting.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxconditionalformatting_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxconditionalformatting_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxcontenttypes_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcontenttypes_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdatavalidation.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatavalidation.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdatavalidation_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatavalidation_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdatetype.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatetype.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdocpropsapp_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocpropsapp_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdocpropscore_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocpropscore_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdocument.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocument.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdocument_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocument_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdrawing_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdrawing_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxdrawinganchor_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdrawinganchor_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxformat.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxformat.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxformat_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxformat_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxglobal.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxglobal.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxmediafile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxmediafile_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxnumformatparser_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxnumformatparser_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxrelationships_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrelationships_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxrichstring.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrichstring.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxrichstring_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrichstring_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxsharedstrings_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxsharedstrings_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxsimpleooxmlfile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxsimpleooxmlfile_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxstyles_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxstyles_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxtheme_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxtheme_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxutility_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxutility_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxworkbook.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworkbook.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxworkbook_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworkbook_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxworksheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworksheet.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxworksheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworksheet_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxzipreader_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxzipreader_p.cpp",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header/xlsxzipwriter_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxzipwriter_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/QXlsx_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/QXlsx_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x060600",
+		"QT_GUI_LIB",
+		"QT_NO_CAST_FROM_ASCII",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_KEYWORDS",
+		"QT_NO_SIGNALS_SLOTS_KEYWORDS",
+		"QT_NO_URL_CAST_FROM_STRING",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_USE_QSTRINGBUILDER",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"WINVER=0x0A00",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN32_WINNT=0x0A00",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx",
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx",
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header",
+		"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/header",
+		"D:/Qt/6.7.2/llvm-mingw_64/include/QtCore",
+		"D:/Qt/6.7.2/llvm-mingw_64/include",
+		"D:/Qt/6.7.2/llvm-mingw_64/mkspecs/win32-clang-g++",
+		"D:/Qt/6.7.2/llvm-mingw_64/include/QtGui/6.7.2",
+		"D:/Qt/6.7.2/llvm-mingw_64/include/QtGui/6.7.2/QtGui",
+		"D:/Qt/6.7.2/llvm-mingw_64/include/QtCore/6.7.2",
+		"D:/Qt/6.7.2/llvm-mingw_64/include/QtCore/6.7.2/QtCore",
+		"D:/Qt/6.7.2/llvm-mingw_64/include/QtGui",
+		"D:/Qt/Tools/llvm-mingw1706_64/include/c++/v1",
+		"D:/Qt/Tools/llvm-mingw1706_64/lib/clang/17/include",
+		"D:/Qt/Tools/llvm-mingw1706_64/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/Qt/Tools/llvm-mingw1706_64/bin/clang++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/QXlsx_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/CMakeFiles/QXlsx_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Qt/6.7.2/llvm-mingw_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/Qt/6.7.2/llvm-mingw_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/CMakeFiles/QXlsx_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxabstractooxmlfile.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxabstractsheet.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxcell.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxcellformula.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxcelllocation.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxcellrange.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxcellreference.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxchart.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxchartsheet.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxcolor.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxconditionalformatting.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxcontenttypes.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxdatavalidation.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxdatetype.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxdocpropsapp.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxdocpropscore.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxdocument.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxdrawing.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxdrawinganchor.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxformat.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxmediafile.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxnumformatparser.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxrelationships.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxrichstring.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxsharedstrings.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxsimpleooxmlfile.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxstyles.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxtheme.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxutility.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxworkbook.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxworksheet.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxzipreader.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/QXlsx/source/xlsxzipwriter.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

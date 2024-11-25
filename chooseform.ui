@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Chooseform</class>
+ <widget class="QWidget" name="Chooseform">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>922</width>
+    <height>724</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>消费选择</string>
+  </property>
+  <widget class="QTableWidget" name="employee_ec">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>50</y>
+     <width>381</width>
+     <height>561</height>
+    </rect>
+   </property>
+   <column>
+    <property name="text">
+     <string>姓名</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>编号</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QTableWidget" name="service_ec">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>50</y>
+     <width>391</width>
+     <height>561</height>
+    </rect>
+   </property>
+   <column>
+    <property name="text">
+     <string>名称</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>价格</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QPushButton" name="yes_bt">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>630</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>确定</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cancel_bt">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>630</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>关闭</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>美发师：</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>20</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>服务：</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

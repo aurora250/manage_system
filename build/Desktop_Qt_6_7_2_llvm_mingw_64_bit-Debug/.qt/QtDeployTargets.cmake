@@ -1,0 +1,5 @@
+set(__QT_DEPLOY_TARGET_QXlsx_FILE D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/libQXlsxQt6.a)
+set(__QT_DEPLOY_TARGET_QXlsx_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_manage_system_FILE D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/manage_system.exe)
+set(__QT_DEPLOY_TARGET_manage_system_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_manage_system_RUNTIME_DLLS D:/Qt/6.7.2/llvm-mingw_64/bin/Qt6Sql.dll;D:/Qt/6.7.2/llvm-mingw_64/bin/Qt6Charts.dll;D:/Qt/6.7.2/llvm-mingw_64/bin/Qt6OpenGLWidgets.dll;D:/Qt/6.7.2/llvm-mingw_64/bin/Qt6Widgets.dll;D:/Qt/6.7.2/llvm-mingw_64/bin/Qt6OpenGL.dll;D:/Qt/6.7.2/llvm-mingw_64/bin/Qt6Gui.dll;D:/Qt/6.7.2/llvm-mingw_64/bin/Qt6Core.dll)

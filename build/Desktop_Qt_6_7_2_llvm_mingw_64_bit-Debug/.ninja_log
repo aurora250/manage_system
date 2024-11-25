@@ -1,0 +1,84 @@
+# ninja log v6
+11	1879	7524230588621724	manage_system_autogen/timestamp	48cec7dc69f298d2
+11	1879	7524230588621724	manage_system_autogen/mocs_compilation.cpp	48cec7dc69f298d2
+11	1879	7524230588621724	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/manage_system_autogen/timestamp	48cec7dc69f298d2
+11	1879	7524230588621724	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/manage_system_autogen/mocs_compilation.cpp	48cec7dc69f298d2
+3	44	7524223970718498	CMakeFiles/clean.additional	adcc2f785672e3a3
+920	2888	7524223981134735	CMakeFiles/manage_system.dir/mainwindow.cpp.obj	50a326d6e77fe5d7
+1882	7653	7524230589669711	CMakeFiles/manage_system.dir/manage_system_autogen/mocs_compilation.cpp.obj	100f7441444fbb17
+1894	5228	7524230589783475	CMakeFiles/manage_system.dir/signupform.cpp.obj	d15ad6bc20c724cc
+1884	4945	7524230589669711	CMakeFiles/manage_system.dir/main.cpp.obj	ae0e66b659e52faa
+1893	4667	7524230589698422	CMakeFiles/manage_system.dir/setting.cpp.obj	5ebb1b6294f20f2
+1792	1883	7524213382690260	manage_system.exe	9b3827a14b4a4201
+44	50	7524223971129606	clean	101d0f6048d5fe99
+1887	5104	7524230589698422	CMakeFiles/manage_system.dir/dress.cpp.obj	e40713a301c16c88
+1891	4936	7524230589698422	CMakeFiles/manage_system.dir/people.cpp.obj	2db4b2230f201c49
+1886	5298	7524230589698422	CMakeFiles/manage_system.dir/chooseform.cpp.obj	f67992ce281d4686
+1892	6048	7524230589698422	CMakeFiles/manage_system.dir/searchform.cpp.obj	1907459895569b7c
+5	544	7524237130660694	build.ninja	9396ebadc1cd9a58
+1895	7842	7524230589783475	CMakeFiles/manage_system.dir/statisticform.cpp.obj	d1601fac65160843
+1890	7856	7524230589698422	CMakeFiles/manage_system.dir/manageform.cpp.obj	ed59f625bf217d6a
+12	684	7524237327014227	QXlsx/QXlsx_autogen/timestamp	aed755168f8894ac
+12	684	7524237327014227	QXlsx/QXlsx_autogen/mocs_compilation.cpp	aed755168f8894ac
+12	684	7524237327014227	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/QXlsx_autogen/timestamp	aed755168f8894ac
+12	684	7524237327014227	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/QXlsx/QXlsx_autogen/mocs_compilation.cpp	aed755168f8894ac
+687	4240	7524237327814268	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcellrange.cpp.obj	9c81b959a5acd9d4
+693	4332	7524237327864773	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxabstractooxmlfile.cpp.obj	42432a45b132b8c6
+703	4338	7524237327945015	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdatetype.cpp.obj	2ecabe93fd3ed6a7
+706	4349	7524237327945015	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxsimpleooxmlfile.cpp.obj	6c527a899d73bdad
+732	4412	7524237328261961	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxnumformatparser.cpp.obj	b6dea57f6491a5e
+736	4428	7524237328278552	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxtheme.cpp.obj	5f49871a82fc3802
+715	4477	7524237328015103	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxmediafile.cpp.obj	7bfaeb926feaa19d
+697	4492	7524237327864773	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdrawing.cpp.obj	2f58549d3edc7947
+719	4540	7524237328112795	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxzipwriter.cpp.obj	d39e6498cad9ed57
+739	4559	7524237328313631	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcelllocation.cpp.obj	567d7e3bbd0ce910
+700	4572	7524237327945015	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxabstractsheet.cpp.obj	35ae04882fe2ac78
+722	4647	7524237328112795	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcellformula.cpp.obj	4b4b308352ced527
+686	4676	7524237327798002	QXlsx/CMakeFiles/QXlsx.dir/QXlsx_autogen/mocs_compilation.cpp.obj	7451e22c9cd40a46
+707	4698	7524237328015103	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxzipreader.cpp.obj	e68a6c3ab1285418
+755	4807	7524237328422407	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxutility.cpp.obj	d34d5790c50bbbcf
+709	4869	7524237328015103	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcell.cpp.obj	fb6b661ed8c18807
+694	4908	7524237327864773	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcellreference.cpp.obj	d9c22f64339d6d35
+704	4927	7524237327945015	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxformat.cpp.obj	81ffcef2e3993853
+725	4950	7524237328112795	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcolor.cpp.obj	9b32e84a55e28d3c
+689	5020	7524237327814268	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcontenttypes.cpp.obj	f51801c72b9bb48e
+710	5025	7524237328015103	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxchartsheet.cpp.obj	2afef894e672da4b
+751	5027	7524237328422407	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxrelationships.cpp.obj	9a5a544327018b17
+698	5170	7524237327914844	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxsharedstrings.cpp.obj	d5c42be2a8192751
+712	5185	7524237328015103	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdocpropsapp.cpp.obj	2c9c7b75edf32fc8
+729	5187	7524237328214564	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdocpropscore.cpp.obj	c7f5feb211765b31
+691	5235	7524237327814268	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxrichstring.cpp.obj	8e01d74beebe9a70
+743	5333	7524237328313631	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxconditionalformatting.cpp.obj	477e9e0fb68fad0c
+702	5397	7524237327945015	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxchart.cpp.obj	f14afd98b28d23ac
+690	5558	7524237327814268	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdrawinganchor.cpp.obj	a84c2acecbe5122c
+692	5661	7524237327864773	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxworkbook.cpp.obj	cb202df6b7cfca48
+696	5693	7524237327864773	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdatavalidation.cpp.obj	7968e7d3d3ccb3a6
+747	5883	7524237328412148	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdocument.cpp.obj	b04e9640546eee36
+717	6072	7524237328112795	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxstyles.cpp.obj	ad774beb24ab73d6
+699	6268	7524237327914844	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxworksheet.cpp.obj	16463a6230a37fa3
+6268	6378	7524237383616516	QXlsx/libQXlsxQt6.a	3e98482f345f7d0e
+6378	8220	7524237402213493	manage_system_autogen/timestamp	48cec7dc69f298d2
+6378	8220	7524237402213493	manage_system_autogen/mocs_compilation.cpp	48cec7dc69f298d2
+6378	8220	7524237402213493	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/manage_system_autogen/timestamp	48cec7dc69f298d2
+6378	8220	7524237402213493	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/manage_system_autogen/mocs_compilation.cpp	48cec7dc69f298d2
+8231	10443	7524237403228299	CMakeFiles/manage_system.dir/setting.cpp.obj	d6dfcd47f1fa66c3
+8222	10592	7524237403152686	CMakeFiles/manage_system.dir/main.cpp.obj	77c222da32522926
+8233	10627	7524237403228299	CMakeFiles/manage_system.dir/signupform.cpp.obj	f69836a4a25c4a01
+8229	10766	7524237403228299	CMakeFiles/manage_system.dir/people.cpp.obj	a0440f018bd1127e
+8225	10904	7524237403189559	CMakeFiles/manage_system.dir/dress.cpp.obj	14a7a5bb95bc9994
+8224	11097	7524237403178163	CMakeFiles/manage_system.dir/chooseform.cpp.obj	7f2d61869567be53
+8230	11360	7524237403228299	CMakeFiles/manage_system.dir/searchform.cpp.obj	7822a3848d0cbc0d
+8227	11470	7524237403201370	CMakeFiles/manage_system.dir/manage.cpp.obj	f8631fda89c49ae4
+8234	12640	7524237403228299	CMakeFiles/manage_system.dir/statisticform.cpp.obj	3af048f0afe11a26
+8220	12769	7524237403142378	CMakeFiles/manage_system.dir/manage_system_autogen/mocs_compilation.cpp.obj	9bc82897e6304833
+8228	12981	7524237403217061	CMakeFiles/manage_system.dir/manageform.cpp.obj	50b84948a8e06fdb
+14	262	7524242200793306	manage_system_autogen/timestamp	48cec7dc69f298d2
+14	262	7524242200793306	manage_system_autogen/mocs_compilation.cpp	48cec7dc69f298d2
+14	262	7524242200793306	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/manage_system_autogen/timestamp	48cec7dc69f298d2
+14	262	7524242200793306	D:/Workspace/Cpp Workspace/Qt Workspace/manage_system/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/manage_system_autogen/mocs_compilation.cpp	48cec7dc69f298d2
+264	2057	7524242203310954	CMakeFiles/manage_system.dir/main.cpp.obj	77c222da32522926
+270	2325	7524242203371030	CMakeFiles/manage_system.dir/signupform.cpp.obj	f69836a4a25c4a01
+266	2387	7524242203331801	CMakeFiles/manage_system.dir/chooseform.cpp.obj	7f2d61869567be53
+269	2646	7524242203351479	CMakeFiles/manage_system.dir/searchform.cpp.obj	7822a3848d0cbc0d
+271	3938	7524242203381038	CMakeFiles/manage_system.dir/statisticform.cpp.obj	3af048f0afe11a26
+268	4063	7524242203341954	CMakeFiles/manage_system.dir/manageform.cpp.obj	50b84948a8e06fdb
